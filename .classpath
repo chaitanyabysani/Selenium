@@ -36,5 +36,6 @@
 	<classpathentry kind="lib" path="H:/Jar files/Selenium Jars/selenium-java-3.0.1/lib/xalan-2.7.2.jar"/>
 	<classpathentry kind="lib" path="H:/Jar files/Selenium Jars/selenium-java-3.0.1/lib/xercesImpl-2.11.0.jar"/>
 	<classpathentry kind="lib" path="H:/Jar files/Selenium Jars/selenium-java-3.0.1/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="H:/Jar files/Mailing/mail.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
